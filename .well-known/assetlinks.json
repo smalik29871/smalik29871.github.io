@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.ghostnote",
+      "sha256_cert_fingerprints": ["6F:50:76:8A:B0:42:7C:E1:07:7F:F3:B7:59:6F:5A:96:51:64:C4:64:26:33:54:23:AF:9B:7E:62:2D:71:EB:73"]
+    }
+  }
+]
